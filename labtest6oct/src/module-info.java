@@ -1,0 +1,2 @@
+module labtest6oct {
+}
